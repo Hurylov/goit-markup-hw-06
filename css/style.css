@@ -716,7 +716,7 @@ header {
 
 .client-icon{
     display: inline-flex;
-    fill: #AFB1B8;
+    fill: currentColor;
 }
 
 .client-list {
