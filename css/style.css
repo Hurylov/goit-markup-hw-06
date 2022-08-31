@@ -736,7 +736,7 @@ header {
 
     transition: var(--transition-color), var(--transition-border), var(--transition-bgc);
 
-    color: var(--p-color);
+    color: #AFB1B8;
     border: 1px solid #AFB1B8;
     border-radius: 4px;
 }
